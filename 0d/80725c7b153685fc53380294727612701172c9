@@ -1,0 +1,26 @@
+app/models/channel/email_build.rb
+  h_b156936c57c455 100
+spec/models/channel/email_build_spec.rb
+  s_22cb7a374f0170::t_64d9063893092d 176-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0d80725c7b153685fc53380294727612701172c9",
+  "prompts": {},
+  "humans": {
+    "h_b156936c57c455": {
+      "author": "Ary Rabelo <aryrabelo@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_22cb7a374f0170": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd1345e1-6c18-4a07-907d-1171a9a0049f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ary Rabelo <aryrabelo@gmail.com>"
+    }
+  }
+}
